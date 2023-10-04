@@ -15,4 +15,7 @@ ans.- history to cheak which commands tou have run till now.
 ans. - commands rm (file name) 
 
 
-5 que. - 
+5 que. -  
+  ans.- vim fruit.tx
+        cat fruit.txt
+        the file created for the task of 90 days of devops.
