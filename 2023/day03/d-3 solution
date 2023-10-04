@@ -1,7 +1,18 @@
 1 que. To view what's written in a file.
 ans . - cat day-1
-the first day project of 90 days of davops
+the first day project of 90 days of davops.
+
+
 2 que. To change the access permissions of files.
 ans. - command, (chmod 777 folder name ) to change the permission of the files,  chmod 777 day-1
+
+
 3 que. - To check which commands you have run till nowe. 
 ans.- history to cheak which commands tou have run till now.
+
+
+4 que. - To remove a directory/ Folder
+ans. - commands rm (file name) 
+
+
+5 que. - 
