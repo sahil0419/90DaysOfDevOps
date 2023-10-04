@@ -64,3 +64,27 @@ white
 purple
 orange
 pink
+
+
+11 que - 
+   ans - 
+ diff colors.txt fruit.txt
+1,6c1,6
+< this file created by sahil using cammands
+< red
+< blue
+< black
+< white
+< purple
+---
+> the file created for the task of 90 days of devops.
+> apple
+> mango
+> cherri
+> banana
+> kiwi
+8c8,9
+< pink
+---
+> guava
+>
