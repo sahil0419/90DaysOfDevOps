@@ -21,4 +21,13 @@ ans. - commands rm (file name)
         the file created for the task of 90 days of devops.
 
 
-6 que. - 
+6 que. - Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava.
+  ans. - cat fruit.txt
+the file created for the task of 90 days of devops.
+apple
+mango
+cherri
+banana
+kiwi
+orange
+guava
