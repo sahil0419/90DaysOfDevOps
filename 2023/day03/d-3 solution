@@ -38,3 +38,10 @@ guava
 the file created for the task of 90 days of devops.
 apple
 mango
+
+
+ 8 que - To Show only bottom three fruits from the file.
+ans -  tail -n 4 fruit.txt
+kiwi
+orange
+guava
