@@ -45,3 +45,9 @@ ans -  tail -n 4 fruit.txt
 kiwi
 orange
 guava
+
+
+9 que - To create another file Colors.txt and to view the content.
+  ans -  vim colors.txt
+ cat colors.txt
+this file created by sahil using cammands
