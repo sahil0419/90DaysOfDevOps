@@ -31,3 +31,10 @@ banana
 kiwi
 orange
 guava
+
+
+7 que. - To Show only top three fruits from the file.
+  ans. -  head -n 3 fruit.txt
+the file created for the task of 90 days of devops.
+apple
+mango
