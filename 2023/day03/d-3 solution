@@ -51,3 +51,16 @@ guava
   ans -  vim colors.txt
  cat colors.txt
 this file created by sahil using cammands
+
+
+10 que - Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey.
+  ans -   vim colors.txt
+ cat colors.txt
+this file created by sahil using cammands
+red
+blue
+black
+white
+purple
+orange
+pink
