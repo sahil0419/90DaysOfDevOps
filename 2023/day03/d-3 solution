@@ -2,4 +2,4 @@
 ans . - cat day-1
 the first day project of 90 days of davops
 2 que. To change the access permissions of files.
-ans. - command, chmod777 to change the permission of the files
+ans. - command, (chmod 777 folder name ) to change the permission of the files
