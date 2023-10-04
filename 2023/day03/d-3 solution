@@ -66,9 +66,8 @@ orange
 pink
 
 
-11 que - 
-   ans - 
- diff colors.txt fruit.txt
+11 que - To find the difference between fruits.txt and Colors.txt file
+   ans -  diff colors.txt fruit.txt
 1,6c1,6
 < this file created by sahil using cammands
 < red
