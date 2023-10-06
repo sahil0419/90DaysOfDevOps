@@ -4,3 +4,11 @@ ans - linux shell scipt refer to the practices of writting scitpts or program us
 
 2 que - What is  #!/bin/bash? can we write #!/bin/sh as well? 
  ans -   #!/bin/bash? this is known as shebang , absolutly you can use #!/bin/sh in place of #!/bin/bash
+
+
+3 que - Write a Shell Script which prints I will complete #90DaysOofDevOps challenge
+  ans -   vim script.sh
+ubuntu@ip-172-31-92-56:~$ cat script.sh
+#!/bin/bash
+
+I will complete @90days of devops.
