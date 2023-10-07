@@ -33,3 +33,7 @@ fi
 # print the user input and argument
 echo  "user_input;$user_input"
 echo  "command-line-argument; $argument_input"
+
+
+
+5 que -  Write an Example of If else in Shell Scripting by comparing 2 numbers
