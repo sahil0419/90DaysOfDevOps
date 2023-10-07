@@ -37,3 +37,31 @@ echo  "command-line-argument; $argument_input"
 
 
 5 que -  Write an Example of If else in Shell Scripting by comparing 2 numbers
+ ans  - #!/bin/bash
+
+# promt the user to  enter the two numbers
+echo "enter the first number"
+read num1
+
+echo "enter the secound number"
+read num2
+
+
+
+
+#compare the numbers
+
+
+if ["num1" -eq "num2"]
+
+ echo "$num1 is equal to $num2"
+
+elif [$num1 -gt $num2]; then
+
+ echo "$num1 is greater than $num2"
+
+else
+
+echo    "$num1 is less than num $num2"
+
+fi
