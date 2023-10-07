@@ -12,3 +12,6 @@ ubuntu@ip-172-31-92-56:~$ cat script.sh
 #!/bin/bash
 
 I will complete @90days of devops.
+
+4 que - Write a Shell Script to take user input, input from arguments and print the variables.
+ ans - 
