@@ -14,4 +14,22 @@ ubuntu@ip-172-31-92-56:~$ cat script.sh
 I will complete @90days of devops.
 
 4 que - Write a Shell Script to take user input, input from arguments and print the variables.
- ans - 
+ ans - #!/bin/bash
+
+# promt the user for input
+
+echo "Enter your name"
+read user_input
+
+
+# cheak if a command line argument is provided.
+
+if [ $# -gt 0 ]; then
+        argument_input= "$1"
+else
+      argument_input="no argument provided"
+fi
+
+# print the user input and argument
+echo  "user_input;$user_input"
+echo  "command-line-argument; $argument_input"
