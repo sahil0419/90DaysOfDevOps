@@ -1,3 +1,37 @@
 
 que 2 - Create a Script to backup all your work done till now.
-ans   - 
+ans   -  #!/bin/bash
+
+# Define source and backup directories
+source_dir="/path/to/your/source/directory"
+backup_dir="/path/to/your/backup/directory"
+
+# Create a timestamp for the backup folder
+timestamp=$(date +%Y%m%d%H%M%S)
+backup_folder="backup_$timestamp"
+
+# Check if the source directory exists
+if [ ! -d "$source_dir" ]; then
+  echo "Source directory does not exist: $source_dir"
+  exit 1
+fi
+
+# Create the backup directory if it doesn't exist
+if [ ! -d "$backup_dir" ]; then
+  mkdir -p "$backup_dir"
+fi
+
+# Create a new backup folder inside the backup directory
+backup_path="$backup_dir/$backup_folder"
+mkdir "$backup_path"
+
+# Copy the contents of the source directory to the backup folder
+cp -r "$source_dir"/* "$backup_path"
+
+# Check if the backup was successful
+if [ $? -eq 0 ]; then
+  echo "Backup completed successfully. Files are located in: $backup_path"
+else
+  echo "Backup failed."
+fi
+
