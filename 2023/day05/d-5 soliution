@@ -35,3 +35,8 @@ else
   echo "Backup failed."
 fi
 
+5 que - Create 2 users and just display their Usernames
+ ans  - sudo useradd user1
+        sudo useradd user2
+
+
