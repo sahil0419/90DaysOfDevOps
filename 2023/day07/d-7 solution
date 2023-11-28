@@ -1,2 +1,6 @@
 # que 1 - You have to install docker and jenkins in your system from your terminal using package managers
+ans    -  sudo apt get
+         sudo apt-get install docker 
+         sudo apt update 
+         sudo apt install openjdk-11-jdk
 # que 2 - 
