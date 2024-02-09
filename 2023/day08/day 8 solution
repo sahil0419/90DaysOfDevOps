@@ -14,4 +14,13 @@
 
                                                  :  Exersize  :
 
-   
+   1 Create a new repository on GitHub and clone it to your local machine
+  ans - 
+ubuntu@ip-172-31-44-68:~$ git clone https://github.com/sahil0419/sahil-s-tasks.git
+Cloning into 'sahil-s-tasks'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+ubuntu@ip-172-31-44-68:~$
+
